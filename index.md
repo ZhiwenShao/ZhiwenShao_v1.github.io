@@ -32,6 +32,19 @@ I am now studying at Multimedia and Interactive Computing Lab of Nanyang Technol
 6. K. Tang, X. Hou, Z. Shao, and L. Ma, “Deep feature selection and projection for cross-age face retrieval,” in International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI). IEEE, 2017, pp. 1-7.
 7. Y. Zhao, Y. Li, Z. Shao, and H. Lu, “LSOD: Local sparse orthogonal descriptor for image matching,” in ACM International Conference on Multimedia (MM). ACM, 2016, pp. 232-236. (CCF A)
 
+## Education
+
+Year | University | Degree
+-----|-------|------
+2015.9-Present | Shanghai Jiao Tong University | Ph.D.
+2011.9-2015.6 | Northwestern Polytechnical University | B.Eng.
+
+## Experiences
+
+Year | Company | Title
+-----|-------|------
+2017.11-Present | Nanyang Technological University | Research Assistant
+
 ## Selected Honors
 
 ### Scholarships
@@ -63,19 +76,3 @@ Year | Award
 2013 | C Programming Contest of NPU, Second Prize
 2013 | Smartcar Contest of NPU, Third Prize
 2012 | Mathematical Contest In Modeling of NPU, First Prize
-2012 | Photoshop Design Contest of NPU, Second Prize
-2011 | Photoshop Design Contest of NPU, Honorable Mention
-2011 | Sunshine Project, Outstanding Volunteer
-
-## Education
-
-Year | University | Degree
------|-------|------
-2015.9-Present | Shanghai Jiao Tong University | Ph.D.
-2011.9-2015.6 | Northwestern Polytechnical University | B.Eng.
-
-## Experiences
-
-Year | Company | Title
------|-------|------
-2017.11-Present | Nanyang Technological University | Research Assistant
