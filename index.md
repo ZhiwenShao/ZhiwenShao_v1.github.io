@@ -41,9 +41,11 @@ Year | University | Degree
 
 ## Experiences
 
-Year | Company | Title
+Year | Company | Position
 -----|-------|------
 2017.11-Present | Nanyang Technological University | Research Assistant
+2015.3 - 2016.9 | Tencent Incorporation | Intern (Joint Project of Tencent and SJTU)
+2011.9 - 2012.1 | Volunteer | Sunshine Project of NPU
 
 ## Selected Honors
 
