@@ -36,8 +36,8 @@ I am now studying at Multimedia and Interactive Computing Lab of Nanyang Technol
 
 Year | University | Degree
 -----|-------|------
-2015.9-Present | Shanghai Jiao Tong University | Ph.D.
-2011.9-2015.6 | Northwestern Polytechnical University | B.Eng.
+2015.9-Present | Shanghai Jiao Tong University (SJTU) | Ph.D.
+2011.9-2015.6 | Northwestern Polytechnical University (NPU) | B.Eng.
 
 ## Experiences
 
