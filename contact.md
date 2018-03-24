@@ -3,24 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [shaozhiwen@sjtu.edu.cn](mailto:shaozhiwen@sjtu.edu.cn)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> SEIEE-3-504, 800 Dongchuan Road, Minhang District
 >
-> London
+> Shanghai
 >
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> China
