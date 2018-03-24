@@ -24,11 +24,10 @@ I am now studying at Multimedia and Interactive Computing Lab of Nanyang Technol
 
 ## Awards
 
-Year | Award | Category
+Year | Award | Institute
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2017 |  Leo KoGuan Scholarship  | Shanghai Jiao Tong University
+2016 |  Leo KoGuan Scholarship  | Shanghai Jiao Tong University
 
 ## Education
 
