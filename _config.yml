@@ -1,5 +1,6 @@
 title: Zhiwen Shao (邵志文)
-url: "zhiwenshao.github.io"
+url: "https://zhiwenshao.github.io"
+baseurl: "/"
 
 markdown: kramdown
 
