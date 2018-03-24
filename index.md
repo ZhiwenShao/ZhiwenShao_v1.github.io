@@ -40,7 +40,6 @@ Year | Scholarship
 -----|-------
 2017 | Leo KoGuan Scholarship
 2016 | Leo KoGuan Scholarship
-
 2013-2014 | First Class Scholarship
 2012-2013 | National Endeavor Scholarship
 2012-2013 | Samsung Scholarship
@@ -58,7 +57,6 @@ Year | Award
 2013 | China Undergraduate Electronic Mathematical Contest In Modeling, Second Prize
 2013 | China Undergraduate Mathematical Contest in Modeling, Shaanxi Province, First Prize
 2012 | Mathematical Contest of Shaanxi Province of China, Second Prize
-
 2015 | NPU, Outstanding Graduate
 2014 | C Programming Contest of NPU, Second Prize
 2013 | Mathematical Contest In Modeling of NPU, First Prize
@@ -72,12 +70,12 @@ Year | Award
 # Education
 
 Year | University | Degree
------|-------
+-----|-------|------
 2015.9-Present | Shanghai Jiao Tong University | Ph.D.
 2011.9-2015.6 | Northwestern Polytechnical University | B.Eng.
 
 # Experiences
 
 Year | Company | Title
------|-------
+-----|-------|------
 2017.11-Present | Nanyang Technological University | Research Assistant
